@@ -1,0 +1,156 @@
+[
+   {
+      "img":"https://images.unsplash.com/photo-1526761122248-c31c93f8b2b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+      "location":"Private room in center of London",
+      "title":"Stay at this spacious Edwardian House",
+      "description":"1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+      "star":4.73,
+      "price":"£30 / night",
+      "total":"£117 total",
+      "long":-0.0022275,
+      "lat":51.5421655
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1526761122248-c31c93f8b2b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+      "location":"Private room in center of London",
+      "title":"Stay at this spacious Edwardian House",
+      "description":"1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+      "star":4.73,
+      "price":"£30 / night",
+      "total":"£117 total",
+      "long":-0.0022275,
+      "lat":51.5421655
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=799&q=80",
+      "location":"Private room in center of London",
+      "title":"Independant luxury studio apartment",
+      "description":"2 guest · 3 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen",
+      "star":4.3,
+      "price":"£40 / night",
+      "total":"£157 total",
+      "long":-0.095091,
+      "lat":51.48695
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1526058932873-75b32245945c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "location":"Private room in center of London",
+      "title":"London Studio Apartments",
+      "description":"4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine",
+      "star":3.8,
+      "price":"£35 / night",
+      "total":"£207 total",
+      "long":-0.135638,
+      "lat":51.521916
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1534743249-ac4ab138fd3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+      "location":"Private room in center of London",
+      "title":"30 mins to Oxford Street, Excel London",
+      "description":"1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+      "star":4.1,
+      "price":"£55 / night",
+      "total":"£320 total",
+      "long":-0.069961,
+      "lat":51.472618
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1444201431989-0b9fa7488323?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "location":"Private room in center of London",
+      "title":"Spacious Peaceful Modern Bedroom",
+      "description":"3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Free parking · Dry Cleaning",
+      "star":5.0,
+      "price":"£60 / night",
+      "total":"£450 total",
+      "long":-0.08472,
+      "lat":51.510794
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1470748085385-5fbb3018c796?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1124&q=80",
+      "location":"Private room in center of London",
+      "title":"The Blue Room In London",
+      "description":"2 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Washing Machine",
+      "star":4.23,
+      "price":"£65 / night",
+      "total":"£480 total",
+      "long":-0.094116,
+      "lat":51.51401
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1508796496328-e80b60c13771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "location":"Private room in center of London",
+      "title":"5 Star Luxury Apartment",
+      "description":"3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+      "star":3.85,
+      "price":"£90 / night",
+      "total":"£650 total",
+      "long":-0.109889,
+      "lat":51.521245
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1551927411-95e412943b58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=749&q=80",
+      "location":"Private room in center of London",
+      "title":"Independant luxury studio apartment",
+      "description":"2 guest · 3 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen",
+      "star":4.3,
+      "price":"£40 / night",
+      "total":"£157 total",
+      "long":-0.095091,
+      "lat":51.48695
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1445510861639-5651173bc5d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1059&q=80",
+      "location":"Private room in center of London",
+      "title":"London Studio Apartments",
+      "description":"4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine",
+      "star":3.8,
+      "price":"£35 / night",
+      "total":"£207 total",
+      "long":-0.135638,
+      "lat":51.521916
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1533327325824-76bc4e62d560?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+      "location":"Private room in center of London",
+      "title":"30 mins to Oxford Street, Excel London",
+      "description":"1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+      "star":4.1,
+      "price":"£55 / night",
+      "total":"£320 total",
+      "long":-0.069961,
+      "lat":51.472618
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1487695652027-48e475bfa86f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+      "location":"Private room in center of London",
+      "title":"Spacious Peaceful Modern Bedroom",
+      "description":"3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Free parking · Dry Cleaning",
+      "star":5.0,
+      "price":"£60 / night",
+      "total":"£450 total",
+      "long":-0.08472,
+      "lat":51.510794
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1519643381401-22c77e60520e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+      "location":"Private room in center of London",
+      "title":"The Blue Room In London",
+      "description":"2 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Washing Machine",
+      "star":4.23,
+      "price":"£65 / night",
+      "total":"£480 total",
+      "long":-0.094116,
+      "lat":51.51401
+   },
+   {
+      "img":"https://images.unsplash.com/photo-1504624720567-64a41aa25d70?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
+      "location":"Private room in center of London",
+      "title":"5 Star Luxury Apartment",
+      "description":"3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+      "star":3.85,
+      "price":"£90 / night",
+      "total":"£650 total",
+      "long":-0.109889,
+      "lat":51.521245
+   }
+]
