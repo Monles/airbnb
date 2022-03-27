@@ -28,8 +28,8 @@ function Map({ searchResults }) {
 				zoom: 3.5,
 			}}
 			style={{ width: '100vw', height: '100vh' }}
-			mapStyle='mapbox://styles/monles/cl11mv49p000l15l6o9ekkrar'
-			mapboxAccessToken='pk.eyJ1IjoibW9ubGVzIiwiYSI6ImNsMTFrNmc1YjJ2ZGwzbG9wdmttajNwZngifQ.JbFOnabQQFRQ_d62ZtSYgQ'>
+			mapStyle='YOUR_STYLE_URL'
+			mapboxAccessToken='YOUR_API_KEY'>
 			{searchResults.map((result) => (
 				<div key={result.img}>
 					<Marker
